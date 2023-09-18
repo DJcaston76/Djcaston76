@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/castt.dakota
-[linkedin]: https://www.linkedin.com/in/dakota-caston
+[linkedin]: https://www.linkedin.com/in/dakota-caston-518718291/
