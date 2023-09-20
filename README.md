@@ -5,7 +5,6 @@
 - <b>VPN Setup and Usage (Proton VPN)</b>
   - [Proton VPN: Installation and Implementation](https://github.com/DJcaston76/protonvpn-installation))
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DJcaston76/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DJcaston76/azure-network-protocols)
 
 - <b>Active Directory</b>
