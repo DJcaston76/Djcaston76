@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/DJcaston76/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/DJcaston76/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/DJcaston76/ticket-lifecycle)
 - <b>VPN Setup and Usage (Proton VPN)</b>
   - [Proton VPN: Installation and Implementation](https://github.com/DJcaston76/protonvpn-installation))
 - <b>Microsoft Azure</b>
