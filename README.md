@@ -11,9 +11,6 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DJcaston76/azure-network-protocols)
 
-- <b>Active Directory</b>
-  - [Active Directory: Deploying and Creating Users](https://github.com/DJcaston76/activedirectory-ad))
-
 
 <h2>🤳Connect with me:</h2>
 
